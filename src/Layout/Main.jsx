@@ -24,7 +24,7 @@ const Main = () => {
                         <ClipLoader color="#0000ff" size="50" loader={loader} />
                     </div>
                     :
-                    <div>
+                    <div className='bg-black'>
                         <Navbar></Navbar>
                         <div className='bottom'>
                             <Outlet></Outlet>
