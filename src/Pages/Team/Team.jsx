@@ -36,7 +36,7 @@ const Team = () => {
   // ]
 
   return (
-    <section className="text-center my-16 mx-auto max-w-screen-xl">
+    <section className="text-center my-16 pt-28 mx-auto max-w-screen-xl">
       <div>
         <p className="text-blue-500 font-semibold mb-2">
           PEOPLE BEHIND THE SUCCESS

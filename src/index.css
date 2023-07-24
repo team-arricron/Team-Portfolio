@@ -2,3 +2,6 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 @import "daisyui/dist/full.css";
+body {
+  font-family: "Caprasimo", cursive;
+}

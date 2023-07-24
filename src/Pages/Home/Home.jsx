@@ -2,12 +2,13 @@
 import React from "react";
 import Contact from "../Contact/Contact";
 import Team from "../Team/Team";
+import Banner from "./Banner/Banner";
 
 const Home = () => {
   return (
     <div>
-      This is home
       <div>
+        <Banner></Banner>
         <Team></Team>
         <Contact></Contact>
       </div>
