@@ -12,8 +12,10 @@
   "dependencies": {
     "@headlessui/react": "^1.7.15",
     "@heroicons/react": "^2.0.18",
+    "antd": "^5.8.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.0",
     "react-icons": "^4.10.1",
     "react-router-dom": "^6.11.2",
     "react-spinners": "^0.13.8"

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "001",
+    "name": "Project 1",
+    "description": "An amazing web application that does",
+    "home": "../../src/assets/Team/raju.jpg",
+    "avatar": "../../src/assets/Team/raju.jpg",
+    "liveLink": "https://www.project1.com",
+    "githubFrontend": "https://github.com/yourusername/project1-frontend",
+    "githubBackend": "https://github.com/yourusername/project1-backend"
+  },
+  {
+    "id": "002",
+    "name": "Project 2",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/jion.jpg",
+    "avatar": "../../src/assets/Team/jion.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  },
+  {
+    "id": "003",
+    "name": "Project 3",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/sagor.jpg",
+    "avatar": "../../src/assets/Team/sagor.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  },
+  {
+    "id": "004",
+    "name": "Project 1",
+    "description": "An amazing web application that does",
+    "home": "../../src/assets/Team/raju.jpg",
+    "avatar": "../../src/assets/Team/raju.jpg",
+    "liveLink": "https://www.project1.com",
+    "githubFrontend": "https://github.com/yourusername/project1-frontend",
+    "githubBackend": "https://github.com/yourusername/project1-backend"
+  },
+  {
+    "id": "005",
+    "name": "Project 2",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/jion.jpg",
+    "avatar": "../../src/assets/Team/jion.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  },
+  {
+    "id": "006",
+    "name": "Project 3",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/sagor.jpg",
+    "avatar": "../../src/assets/Team/sagor.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  },
+  {
+    "id": "007",
+    "name": "Project 1",
+    "description": "An amazing web application that does",
+    "home": "../../src/assets/Team/raju.jpg",
+    "avatar": "../../src/assets/Team/raju.jpg",
+    "liveLink": "https://www.project1.com",
+    "githubFrontend": "https://github.com/yourusername/project1-frontend",
+    "githubBackend": "https://github.com/yourusername/project1-backend"
+  },
+  {
+    "id": "008",
+    "name": "Project 2",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/jion.jpg",
+    "avatar": "../../src/assets/Team/jion.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  },
+  {
+    "id": "009",
+    "name": "Project 3",
+    "description": "A mobile app that...",
+    "home": "../../src/assets/Team/sagor.jpg",
+    "avatar": "../../src/assets/Team/sagor.jpg",
+    "liveLink": "https://www.project2.com",
+    "githubFrontend": "https://github.com/yourusername/project2-frontend",
+    "githubBackend": "https://github.com/yourusername/project2-backend"
+  }
+]
